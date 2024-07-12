@@ -1,7 +1,7 @@
 :root{
   --main-radius:5px;
   --main-padding: 5px;
-  --color-font: rgb(242, 241, 255);
+  --color-font: rgb(186, 184, 226);
 }
 .container{
   display:grid;
